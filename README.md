@@ -95,7 +95,7 @@ Handles user issues and support:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/BSCIT-445-12374-Kundan-Kumar/Online-Examination-System.git
 
 ---
 
